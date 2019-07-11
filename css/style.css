@@ -37,6 +37,14 @@ html {
     scroll-behavior: smooth;
 }
 
+
+.img_circle{
+    width: 240px;
+    height: 240px;
+    /* display: none; */
+}
+
+
 body a:focus,
 a:hover {
     text-decoration: none;
